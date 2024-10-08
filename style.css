@@ -81,11 +81,10 @@ background-color:#99FF00;}
 
 .button {
 	text-align:center;
+	display: inline-block;
 	padding: 20px 30px;
 	font-size: 16px;
-	font-color:white;
-	color: white;
-	background-color: blue;
+	background-color: #99FF00;
 	text-decoration: none;
 	border-radius: 10px;
 	border: none;
