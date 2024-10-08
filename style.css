@@ -82,11 +82,11 @@ background-color:#99FF00;}
 .button {
 	text-align:center;
 	display: inline-block;
-	padding: 20px 30px;
+	padding: 10px 20px;
 	font-size: 16px;
 	background-color: #99FF00;
 	text-decoration: none;
-	border-radius: 10px;
+	border-radius: 5px;
 	border: none;
 	cursor: pointer;
 }
