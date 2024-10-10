@@ -93,5 +93,7 @@ background-color:#99FF00;}
 
 #code{
 	width:150px;
+	display: block;
+	margin: 0 auto;
 }
 
